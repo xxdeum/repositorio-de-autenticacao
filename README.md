@@ -1,2 +1,2 @@
-# repositorio-de-autenticacao
-teste de autentificação
+# repositório-de-autenticação
+teste de autenticação
